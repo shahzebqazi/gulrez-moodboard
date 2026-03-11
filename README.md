@@ -11,10 +11,9 @@ A single-page mood board for the Paradise Found creative brief. Built for **GitH
 
 ## GitHub Pages
 
-1. Push this repo to GitHub.
-2. **Settings → Pages** → Source: **Deploy from a branch**.
-3. Branch: **main** (or your default), folder: **/ (root)**.
-4. Save. The site will be at `https://<username>.github.io/<repo>/`.
+**Live site:** [https://shahzebqazi.github.io/gulrez-moodboard/](https://shahzebqazi.github.io/gulrez-moodboard/)
+
+Configured to deploy from the **main** branch, root folder. To change: **Settings → Pages** → Source: **Deploy from a branch** → Branch: **main**, folder: **/ (root)**.
 
 Ensure these paths exist at repo root: `index.html`, `css/style.css`, `js/main.js`, `assets/` (with floral, handicrafts, Logo.png, gulrez.png).
 
